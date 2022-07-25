@@ -152,7 +152,7 @@ class blog {
 		$this->d_date_created=$row['d_date_created'];
 		$this->d_time_created=$row['d_time_created'];
 		$this->d_date_updated=$row['d_date_updated'];
-		$this->d_time_updated=$row['d_date_updated'];
+		$this->d_time_updated=$row['d_time_updated'];
 				
 	}
 
